@@ -7,3 +7,4 @@
 	* [使用文松簫作品的專業人士](wensongxiaoguan/3.md)
 	* [操器論簫](wensongxiaoguan/4.md)
 	* [洞簫音色的差異與控制](wensongxiaoguan/5.md)
+	* [南管簫的特色](wensongxiaoguan/6.md)
