@@ -1,5 +1,5 @@
 {
-	"plugins": ["chapter-fold", "back-to-top-button", "expandable-chapters-small", "-sharing", "sharing-plus", "-lunr", "-search", "search-pro", "pageview-count", "popup"],
+	"plugins": ["chinese-video", "chapter-fold", "back-to-top-button", "expandable-chapters-small", "-sharing", "sharing-plus", "-lunr", "-search", "search-pro", "pageview-count", "popup"],
 	"language": "zh-hans",
 	"pluginsConfig": {
 		"theme-default": {
